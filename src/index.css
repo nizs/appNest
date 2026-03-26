@@ -1,2 +1,26 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 @plugin "daisyui";
+
+@plugin "daisyui/theme" {
+    name: "mytheme";
+    default: true;
+    --color-primary: #632EE3;
+    --color-secondary: #001931;
+    --color-third: #627382;
+    --color-hovr: #9F62F2;
+  }
+
+
+  *{
+    font-family: "Inter", sans-serif;
+  }
+  .gradient-primary {
+    background: linear-gradient(90deg, #632EE3, #9F62F2);
+  }
+  .gradient-primary-text {
+    color: linear-gradient(90deg, #632EE3, #9F62F2);
+  }
+  .gradient-secondary-text {
+    color: linear-gradient(90deg, #54CF68, #00827A);
+  }

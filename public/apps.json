@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/3WQ2R7F/app1.jpg",
+      "title": "TaskMaster",
+      "downloads": "9M",
+      "ratingAvg": 4.8
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/3WQ2R7F/app2.jpg",
+      "title": "FitTrack",
+      "downloads": "7M",
+      "ratingAvg": 4.6
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/3WQ2R7F/app3.jpg",
+      "title": "NoteNest",
+      "downloads": "5M",
+      "ratingAvg": 4.7
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/3WQ2R7F/app4.jpg",
+      "title": "MoneyMate",
+      "downloads": "8M",
+      "ratingAvg": 4.5
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/3WQ2R7F/app5.jpg",
+      "title": "TravelGo",
+      "downloads": "6M",
+      "ratingAvg": 4.4
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/3WQ2R7F/app6.jpg",
+      "title": "PhotoFix",
+      "downloads": "10M",
+      "ratingAvg": 4.9
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/3WQ2R7F/app7.jpg",
+      "title": "StudyBuddy",
+      "downloads": "4M",
+      "ratingAvg": 4.6
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/3WQ2R7F/app8.jpg",
+      "title": "Foodies",
+      "downloads": "3M",
+      "ratingAvg": 4.3
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/3WQ2R7F/app9.jpg",
+      "title": "WeatherNow",
+      "downloads": "11M",
+      "ratingAvg": 4.7
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/3WQ2R7F/app10.jpg",
+      "title": "GameZone",
+      "downloads": "15M",
+      "ratingAvg": 4.8
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/3WQ2R7F/app11.jpg",
+      "title": "HealthPlus",
+      "downloads": "6M",
+      "ratingAvg": 4.5
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/3WQ2R7F/app12.jpg",
+      "title": "MusicWave",
+      "downloads": "13M",
+      "ratingAvg": 4.9
+    },
+    {
+      "id": 13,
+      "image": "https://i.ibb.co/3WQ2R7F/app13.jpg",
+      "title": "ShopEasy",
+      "downloads": "9M",
+      "ratingAvg": 4.6
+    },
+    {
+      "id": 14,
+      "image": "https://i.ibb.co/3WQ2R7F/app14.jpg",
+      "title": "ChatConnect",
+      "downloads": "20M",
+      "ratingAvg": 4.7
+    },
+    {
+      "id": 15,
+      "image": "https://i.ibb.co/3WQ2R7F/app15.jpg",
+      "title": "NewsFlash",
+      "downloads": "7M",
+      "ratingAvg": 4.4
+    },
+    {
+      "id": 16,
+      "image": "https://i.ibb.co/3WQ2R7F/app16.jpg",
+      "title": "CryptoTrack",
+      "downloads": "5M",
+      "ratingAvg": 4.3
+    },
+    {
+      "id": 17,
+      "image": "https://i.ibb.co/3WQ2R7F/app17.jpg",
+      "title": "LanguageLab",
+      "downloads": "4M",
+      "ratingAvg": 4.6
+    },
+    {
+      "id": 18,
+      "image": "https://i.ibb.co/3WQ2R7F/app18.jpg",
+      "title": "FitnessPro",
+      "downloads": "8M",
+      "ratingAvg": 4.7
+    },
+    {
+      "id": 19,
+      "image": "https://i.ibb.co/3WQ2R7F/app19.jpg",
+      "title": "MindRelax",
+      "downloads": "3M",
+      "ratingAvg": 4.5
+    },
+    {
+      "id": 20,
+      "image": "https://i.ibb.co/3WQ2R7F/app20.jpg",
+      "title": "DailyPlanner",
+      "downloads": "6M",
+      "ratingAvg": 4.6
+    }
+  ]

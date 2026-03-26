@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import { FaGithub } from "react-icons/fa";
+import logo from "../assets/logo.png";
 
 const Navbar = () => {
     const location = useLocation();
@@ -11,7 +13,7 @@ const Navbar = () => {
         { name: "Installation", path: "/installations" },
     ];
     return (
-        <div className="navbar bg-base-100 shadow-sm">
+        <div className="navbar bg-base-100 max-w-7xl mx-auto">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -33,7 +35,10 @@ const Navbar = () => {
                         ))}
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">daisyUI</a>
+               <span className="flex items-center gap-2">
+                <img className="w-8" src={logo} alt="appNest_logo" />
+               <a className="text-xl font-bold text-primary">AppNest</a>
+               </span>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -41,7 +46,7 @@ const Navbar = () => {
                         <li key={link.path}>
                             <Link
                                 to={link.path}
-                                className={`hover:text-primary ${currentPath === link.path ? "text-primary font-semibold" : ""
+                                className={`hover:text-primary ${currentPath === link.path ? "text-primary font-semibold underline underlined-offset-4" : ""
                                     }`}
                             >
                                 {link.name}
@@ -51,7 +56,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Button</a>
+                <a className="btn text-white gradient-primary"><FaGithub />Contribute</a>
             </div>
         </div>
     );
