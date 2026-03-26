@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-🔗 https://app-nest-orcin.vercel.app/
+🔗 https://app-nest-ebon.vercel.app/
 
 ---
 
