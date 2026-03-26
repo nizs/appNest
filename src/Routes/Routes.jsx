@@ -20,9 +20,14 @@ export const router = createBrowserRouter([
                 loader: () => fetch("./apps.json"),
             },
             {
-                path: "/apps",
+                path: "/app/:id",
                 element: <AppaDetails />,
-                loader: () => fetch("./apps.json"),
+                loader: async ({ params }) => {
+                    const res = await fetch('../../public/apps.json');
+                    const data = await res.json(); // parse JSON
+                    const details = data.find(detail => detail.id === Number(params.id)); // convert id to number
+                    return details;
+                }
             },
             {
                 path: '/installations',

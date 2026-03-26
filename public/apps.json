@@ -1,142 +1,242 @@
 [
-    {
-      "id": 1,
-      "image": "https://i.ibb.co/3WQ2R7F/app1.jpg",
-      "title": "TaskMaster",
-      "downloads": "9M",
-      "ratingAvg": 4.8
-    },
-    {
-      "id": 2,
-      "image": "https://i.ibb.co/3WQ2R7F/app2.jpg",
-      "title": "FitTrack",
-      "downloads": "7M",
-      "ratingAvg": 4.6
-    },
-    {
-      "id": 3,
-      "image": "https://i.ibb.co/3WQ2R7F/app3.jpg",
-      "title": "NoteNest",
-      "downloads": "5M",
-      "ratingAvg": 4.7
-    },
-    {
-      "id": 4,
-      "image": "https://i.ibb.co/3WQ2R7F/app4.jpg",
-      "title": "MoneyMate",
-      "downloads": "8M",
-      "ratingAvg": 4.5
-    },
-    {
-      "id": 5,
-      "image": "https://i.ibb.co/3WQ2R7F/app5.jpg",
-      "title": "TravelGo",
-      "downloads": "6M",
-      "ratingAvg": 4.4
-    },
-    {
-      "id": 6,
-      "image": "https://i.ibb.co/3WQ2R7F/app6.jpg",
-      "title": "PhotoFix",
-      "downloads": "10M",
-      "ratingAvg": 4.9
-    },
-    {
-      "id": 7,
-      "image": "https://i.ibb.co/3WQ2R7F/app7.jpg",
-      "title": "StudyBuddy",
-      "downloads": "4M",
-      "ratingAvg": 4.6
-    },
-    {
-      "id": 8,
-      "image": "https://i.ibb.co/3WQ2R7F/app8.jpg",
-      "title": "Foodies",
-      "downloads": "3M",
-      "ratingAvg": 4.3
-    },
-    {
-      "id": 9,
-      "image": "https://i.ibb.co/3WQ2R7F/app9.jpg",
-      "title": "WeatherNow",
-      "downloads": "11M",
-      "ratingAvg": 4.7
-    },
-    {
-      "id": 10,
-      "image": "https://i.ibb.co/3WQ2R7F/app10.jpg",
-      "title": "GameZone",
-      "downloads": "15M",
-      "ratingAvg": 4.8
-    },
-    {
-      "id": 11,
-      "image": "https://i.ibb.co/3WQ2R7F/app11.jpg",
-      "title": "HealthPlus",
-      "downloads": "6M",
-      "ratingAvg": 4.5
-    },
-    {
-      "id": 12,
-      "image": "https://i.ibb.co/3WQ2R7F/app12.jpg",
-      "title": "MusicWave",
-      "downloads": "13M",
-      "ratingAvg": 4.9
-    },
-    {
-      "id": 13,
-      "image": "https://i.ibb.co/3WQ2R7F/app13.jpg",
-      "title": "ShopEasy",
-      "downloads": "9M",
-      "ratingAvg": 4.6
-    },
-    {
-      "id": 14,
-      "image": "https://i.ibb.co/3WQ2R7F/app14.jpg",
-      "title": "ChatConnect",
-      "downloads": "20M",
-      "ratingAvg": 4.7
-    },
-    {
-      "id": 15,
-      "image": "https://i.ibb.co/3WQ2R7F/app15.jpg",
-      "title": "NewsFlash",
-      "downloads": "7M",
-      "ratingAvg": 4.4
-    },
-    {
-      "id": 16,
-      "image": "https://i.ibb.co/3WQ2R7F/app16.jpg",
-      "title": "CryptoTrack",
-      "downloads": "5M",
-      "ratingAvg": 4.3
-    },
-    {
-      "id": 17,
-      "image": "https://i.ibb.co/3WQ2R7F/app17.jpg",
-      "title": "LanguageLab",
-      "downloads": "4M",
-      "ratingAvg": 4.6
-    },
-    {
-      "id": 18,
-      "image": "https://i.ibb.co/3WQ2R7F/app18.jpg",
-      "title": "FitnessPro",
-      "downloads": "8M",
-      "ratingAvg": 4.7
-    },
-    {
-      "id": 19,
-      "image": "https://i.ibb.co/3WQ2R7F/app19.jpg",
-      "title": "MindRelax",
-      "downloads": "3M",
-      "ratingAvg": 4.5
-    },
-    {
-      "id": 20,
-      "image": "https://i.ibb.co/3WQ2R7F/app20.jpg",
-      "title": "DailyPlanner",
-      "downloads": "6M",
-      "ratingAvg": 4.6
-    }
-  ]
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/3WQ2R7F/app1.jpg",
+    "title": "TaskMaster",
+    "downloads": "9M",
+    "ratingAvg": 4.8,
+    "totalReviews": 54000,
+    "totalReviewsString": "54k",
+    "developedBy": "HERO.IO",
+    "description": ["TaskMaster helps you manage your tasks efficiently.", "Organize, track, and finish tasks with ease.", "Boost your productivity with smart reminders."],
+    "ratingDistribution": { "5": 30000, "4": 15000, "3": 5000, "2": 2000, "1": 1000 }
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/3WQ2R7F/app2.jpg",
+    "title": "FitTrack",
+    "downloads": "7M",
+    "ratingAvg": 4.6,
+    "totalReviews": 46000,
+    "totalReviewsString": "46k",
+    "developedBy": "HERO.IO",
+    "description": ["Track your fitness and health goals effortlessly.", "Set workout plans and monitor progress.", "Stay motivated with personal insights."],
+    "ratingDistribution": { "5": 25000, "4": 14000, "3": 5000, "2": 1500, "1": 500 }
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/3WQ2R7F/app3.jpg",
+    "title": "NoteNest",
+    "downloads": "5M",
+    "ratingAvg": 4.7,
+    "totalReviews": 37000,
+    "totalReviewsString": "37k",
+    "developedBy": "HERO.IO",
+    "description": ["Your digital notebook for all ideas and notes.", "Organize notes with tags and categories.", "Sync across devices seamlessly."],
+    "ratingDistribution": { "5": 20000, "4": 12000, "3": 4000, "2": 1000, "1": 0 }
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/3WQ2R7F/app4.jpg",
+    "title": "MoneyMate",
+    "downloads": "8M",
+    "ratingAvg": 4.5,
+    "totalReviews": 39000,
+    "totalReviewsString": "39k",
+    "developedBy": "HERO.IO",
+    "description": ["Track your expenses and manage budgets.", "Visualize your spending trends easily.", "Stay in control of your finances."],
+    "ratingDistribution": { "5": 18000, "4": 14000, "3": 5000, "2": 2000, "1": 0 }
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/3WQ2R7F/app5.jpg",
+    "title": "TravelGo",
+    "downloads": "6M",
+    "ratingAvg": 4.4,
+    "totalReviews": 32000,
+    "totalReviewsString": "32k",
+    "developedBy": "HERO.IO",
+    "description": ["Plan your trips and explore destinations.", "Book hotels and flights in-app.", "Get recommendations from experts."],
+    "ratingDistribution": { "5": 15000, "4": 11000, "3": 4000, "2": 2000, "1": 0 }
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/3WQ2R7F/app6.jpg",
+    "title": "PhotoFix",
+    "downloads": "10M",
+    "ratingAvg": 4.9,
+    "totalReviews": 72000,
+    "totalReviewsString": "72k",
+    "developedBy": "HERO.IO",
+    "description": ["Edit photos like a pro with ease.", "Apply filters and enhancements.", "Share instantly on social media."],
+    "ratingDistribution": { "5": 50000, "4": 15000, "3": 5000, "2": 2000, "1": 0 }
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/3WQ2R7F/app7.jpg",
+    "title": "StudyBuddy",
+    "downloads": "4M",
+    "ratingAvg": 4.6,
+    "totalReviews": 29000,
+    "totalReviewsString": "29k",
+    "developedBy": "HERO.IO",
+    "description": ["Your study companion for exams and courses.", "Track progress and set reminders.", "Collaborate with peers."],
+    "ratingDistribution": { "5": 15000, "4": 9000, "3": 4000, "2": 1000, "1": 0 }
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/3WQ2R7F/app8.jpg",
+    "title": "Foodies",
+    "downloads": "3M",
+    "ratingAvg": 4.3,
+    "totalReviews": 21000,
+    "totalReviewsString": "21k",
+    "developedBy": "HERO.IO",
+    "description": ["Discover restaurants and order online.", "Track delivery in real-time.", "Save favorite places for next time."],
+    "ratingDistribution": { "5": 12000, "4": 7000, "3": 3000, "2": 1000, "1": 0 }
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/3WQ2R7F/app9.jpg",
+    "title": "WeatherNow",
+    "downloads": "11M",
+    "ratingAvg": 4.7,
+    "totalReviews": 58000,
+    "totalReviewsString": "58k",
+    "developedBy": "HERO.IO",
+    "description": ["Real-time weather updates and alerts.", "Forecasts for any location.", "Customize notifications for severe weather."],
+    "ratingDistribution": { "5": 30000, "4": 20000, "3": 6000, "2": 2000, "1": 0 }
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/3WQ2R7F/app10.jpg",
+    "title": "GameZone",
+    "downloads": "15M",
+    "ratingAvg": 4.8,
+    "totalReviews": 82000,
+    "totalReviewsString": "82k",
+    "developedBy": "HERO.IO",
+    "description": ["Play trending games and challenge friends.", "Track your achievements.", "Join tournaments and events."],
+    "ratingDistribution": { "5": 50000, "4": 25000, "3": 5000, "2": 2000, "1": 0 }
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/3WQ2R7F/app11.jpg",
+    "title": "HealthPlus",
+    "downloads": "6M",
+    "ratingAvg": 4.5,
+    "totalReviews": 35000,
+    "totalReviewsString": "35k",
+    "developedBy": "HERO.IO",
+    "description": ["Monitor your health and vitals easily.", "Get insights and health tips.", "Track daily goals and habits."],
+    "ratingDistribution": { "5": 18000, "4": 12000, "3": 4000, "2": 1000, "1": 0 }
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/3WQ2R7F/app12.jpg",
+    "title": "MusicWave",
+    "downloads": "13M",
+    "ratingAvg": 4.9,
+    "totalReviews": 70000,
+    "totalReviewsString": "70k",
+    "developedBy": "HERO.IO",
+    "description": ["Stream your favorite music anytime.", "Create playlists and share with friends.", "Offline mode available."],
+    "ratingDistribution": { "5": 50000, "4": 15000, "3": 5000, "2": 0, "1": 0 }
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/3WQ2R7F/app13.jpg",
+    "title": "ShopEasy",
+    "downloads": "9M",
+    "ratingAvg": 4.6,
+    "totalReviews": 43000,
+    "totalReviewsString": "43k",
+    "developedBy": "HERO.IO",
+    "description": ["Shop all your favorite products in one app.", "Track orders and deliveries.", "Get personalized recommendations."],
+    "ratingDistribution": { "5": 25000, "4": 13000, "3": 5000, "2": 0, "1": 0 }
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/3WQ2R7F/app14.jpg",
+    "title": "ChatConnect",
+    "downloads": "20M",
+    "ratingAvg": 4.7,
+    "totalReviews": 95000,
+    "totalReviewsString": "95k",
+    "developedBy": "HERO.IO",
+    "description": ["Connect with friends and family instantly.", "Send messages, photos, and videos.", "Create groups and communities."],
+    "ratingDistribution": { "5": 50000, "4": 30000, "3": 10000, "2": 3000, "1": 2000 }
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/3WQ2R7F/app15.jpg",
+    "title": "NewsFlash",
+    "downloads": "7M",
+    "ratingAvg": 4.4,
+    "totalReviews": 31000,
+    "totalReviewsString": "31k",
+    "developedBy": "HERO.IO",
+    "description": ["Get breaking news in real-time.", "Follow topics and sources you care about.", "Stay informed anytime, anywhere."],
+    "ratingDistribution": { "5": 15000, "4": 10000, "3": 5000, "2": 1000, "1": 0 }
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/3WQ2R7F/app16.jpg",
+    "title": "CryptoTrack",
+    "downloads": "5M",
+    "ratingAvg": 4.3,
+    "totalReviews": 27000,
+    "totalReviewsString": "27k",
+    "developedBy": "HERO.IO",
+    "description": ["Track cryptocurrency prices and portfolio.", "Get alerts for price changes.", "Analyze trends easily."],
+    "ratingDistribution": { "5": 12000, "4": 10000, "3": 4000, "2": 1000, "1": 0 }
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/3WQ2R7F/app17.jpg",
+    "title": "LanguageLab",
+    "downloads": "4M",
+    "ratingAvg": 4.6,
+    "totalReviews": 29000,
+    "totalReviewsString": "29k",
+    "developedBy": "HERO.IO",
+    "description": ["Learn new languages with interactive lessons.", "Practice with exercises and quizzes.", "Track your progress and fluency."],
+    "ratingDistribution": { "5": 15000, "4": 9000, "3": 4000, "2": 1000, "1": 0 }
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co/3WQ2R7F/app18.jpg",
+    "title": "FitnessPro",
+    "downloads": "8M",
+    "ratingAvg": 4.7,
+    "totalReviews": 48000,
+    "totalReviewsString": "48k",
+    "developedBy": "HERO.IO",
+    "description": ["Achieve fitness goals with personalized plans.", "Track workouts and nutrition.", "Stay motivated and consistent."],
+    "ratingDistribution": { "5": 25000, "4": 15000, "3": 5000, "2": 2000, "1": 1000 }
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co/3WQ2R7F/app19.jpg",
+    "title": "MindRelax",
+    "downloads": "3M",
+    "ratingAvg": 4.5,
+    "totalReviews": 21000,
+    "totalReviewsString": "21k",
+    "developedBy": "HERO.IO",
+    "description": ["Meditate and relax your mind.", "Follow guided sessions.", "Track your meditation streaks."],
+    "ratingDistribution": { "5": 12000, "4": 7000, "3": 4000, "2": 1000, "1": 0 }
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co/3WQ2R7F/app20.jpg",
+    "title": "DailyPlanner",
+    "downloads": "6M",
+    "ratingAvg": 4.6,
+    "totalReviews": 35000,
+    "totalReviewsString": "35k",
+    "developedBy": "HERO.IO",
+    "description": ["Plan your day and tasks efficiently.", "Set reminders and priorities.", "Boost your productivity daily."],
+    "ratingDistribution": { "5": 18000, "4": 12000, "3": 5000, "2": 0, "1": 0 }
+  }
+]
